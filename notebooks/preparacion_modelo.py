@@ -191,9 +191,7 @@ joblib.dump(
 # print(" Gráfico guardado: matriz_confusion.png")
 # plt.close()
 
-# ============================================================================
-# 10. GUARDAR MODELO
-# ============================================================================
+
 # print("\n" + "="*80)
 # print("GUARDANDO MODELO...")
 # print("="*80)
